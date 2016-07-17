@@ -3,7 +3,7 @@
 ><font color=#0099ff >@author Gust <br>
 >@Date 2016-7-16 </font>
 
-######介绍
+###介绍
 &emsp;&emsp;自己做了个小项目，Android，网页，Node 开发，一个关于美食的，之前只学过基础的网页＋PHP，Android 和 Node 都是从零开始，因为是小组项目，我负责的是Android部分，网页和 Node 的知识，我会在后面补上的。
 &emsp;&emsp;今天介绍一下今天学习的HTTP 请求，Android 之前学到的东西，会在之后补上。
 
@@ -14,8 +14,8 @@
 
 >main 方法
 
-<tab>
-	
+
+```java
 	public class main {
 		public static void main(String[] args) {
 	        //发送 GET 请求
@@ -27,11 +27,11 @@
 	        System.out.println(sr);
 	    }
 	}
-</tab>
+```
 
 >UrlHttp 类
-<tab>
-	
+
+```java
 	import java.io.BufferedReader;
 	import java.io.IOException;
 	import java.io.InputStreamReader;
@@ -153,7 +153,7 @@
 	        return result;
 	    }    
 	}
-</tab>
+```
 
 
 >注
