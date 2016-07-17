@@ -49,6 +49,8 @@
 
 [介绍](http://blog.csdn.net/phunxm/article/details/49565427)
 
+[详细介绍](http://www.ituring.com.cn/article/504)
+
 
 
 ***
